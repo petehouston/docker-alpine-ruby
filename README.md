@@ -1,5 +1,10 @@
 # Docker Alpine Ruby
 
+[![](https://imagelayers.io/badge/petehouston/docker-alpine-ruby:latest.svg)](https://imagelayers.io/?images=petehouston/docker-alpine-ruby:latest 'Get your own badge on imagelayers.io')
+
+[![nodesource/node](http://dockeri.co/image/petehouston/docker-alpine-php)](https://registry.hub.docker.com/u/petehouston/docker-alpine-php/)
+
+
 A very small Docker image to bootstrap your Ruby code.
 
 This Ruby Docker image is based on Alpine Linux, so it is quite small in terms of size. Sometimes, I want to have a quick run of a Ruby script and don't want to setup a complicated Ruby environment and packages, and I build this image. There are already [official Ruby images](https://hub.docker.com/_/ruby/), but its size is huge and it contains quite lots of unnecessary packages that I don't use often.
