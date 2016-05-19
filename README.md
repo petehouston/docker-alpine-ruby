@@ -2,7 +2,7 @@
 
 [![](https://imagelayers.io/badge/petehouston/docker-alpine-ruby:latest.svg)](https://imagelayers.io/?images=petehouston/docker-alpine-ruby:latest 'Get your own badge on imagelayers.io')
 
-[![nodesource/node](http://dockeri.co/image/petehouston/docker-alpine-php)](https://registry.hub.docker.com/u/petehouston/docker-alpine-php/)
+[![nodesource/node](http://dockeri.co/image/petehouston/docker-alpine-ruby)](https://registry.hub.docker.com/u/petehouston/docker-alpine-ruby/)
 
 
 A very small Docker image to bootstrap your Ruby code.
